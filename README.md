@@ -29,3 +29,5 @@ From an educational perspective, the project is also a great way to understand h
 In conclusion, this Python-based File Integrity Checker is a useful tool for anyone who needs to confirm the authenticity of their files. It offers a quick and efficient way to detect changes using reliable cryptographic methods. By combining ease of use with robust functionality, the project demonstrates how simple programming solutions can solve important problems in digital security and file management.
 
 *OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/601780cd-a357-472a-b9a3-98d457495605)
